@@ -1,6 +1,6 @@
 # AutomationExerciseTestNG
 
-This project automates the login and logout scenarios on [Automation Exercise](http://automationexercise.com) using **TestNG**, **Selenium WebDriver**, and **Java**. It validates Products section on an e-commerce website to validate its core functionalities including product navigation, product detail visibility, and search feature accuracy.
+This project automates the Products section and search scenarios on [Automation Exercise](http://automationexercise.com) using **TestNG**, **Selenium WebDriver**, and **Java**. It validates Products section on an e-commerce website to validate its core functionalities including product navigation, product detail visibility, and search feature accuracy.
 
 # 📌 Project Overview
 
